@@ -3,4 +3,4 @@ Bot Created Via [NFD](https://github.com/LloydAsp/nfd)
 使用方法：
 
 - 当其他用户给bot发消息，会被转发到bot创建者
-- 用户回复普通文字给转发的消息时，会回复到原消息发送者
+- 您好，这边是开元棋牌官方招商的，请您这边是来咨询代理合作的吗？
